@@ -1,28 +1,28 @@
 [
     {
         "embed": {
-            "description": "This is a youtube channel that provides high quality reddit content. Videos are uploaded regularly so you are never out of funny, interesting or even creepy content!",
+            "description": "Το Project PAP είναι ένα YouTube κανάλι ανερχόμενο και έχουμε συνεργαστεί μαζί του για το νέο μας bot για την υποστήριξη σας!",
             "color": 15114050,
             "footer": {
-                "icon_url": "https://i.imgur.com/fvNKUks.png",
-                "text": "I am a robot, son of Daniel (UK)"
+                "icon_url": "https://goldenroleplay.gq/wp-content/uploads/2021/11/1637532362615-600x600.png",
+                "text": "Συνεργαζόμαστε με το Staff του Golden Roleplay για να σας προσφέρει το staff μια διαφορετική εμπειρία υποστήριξης!"
             },
             "thumbnail": {
-                "url": "https://i.imgur.com/WyzaPKY.png"
+                "url": "https://goldenroleplay.gq/wp-content/uploads/2021/11/1637532362615-600x600.png"
             },
             "author": {
-                "name": "Sir Reddit",
-                "url": "https://www.youtube.com/channel/UCgSmBJD9imASmJRleycTCwQ?sub_confirmation=1",
+                "name": "Project PAP",
+                "url": "https://projectpap.gq",
                 "icon_url": "https://i.imgur.com/WyzaPKY.png"
             },
             "fields": [
                 {
-                    "name": "Subscribe!",
-                    "value": "[**Click Here**](https://www.youtube.com/channel/UCgSmBJD9imASmJRleycTCwQ?sub_confirmation=1)"
+                    "name": "Προβολή συνεργάτη!",
+                    "value": "[**Πατήστε εδώ**](https://projectpap.gq)"
                 },
                 {
                     "name": "Discord Server",
-                    "value": "[**Click Here**](https://discord.gg/V8ErqHb)"
+                    "value": "[**Κάντε join**](https://discord.gg/zuKhRKDD3k)"
                 }
             ]
         }
